@@ -1,6 +1,6 @@
 # Hi there, I'm Sanuka Pathiraja 👋
 
-A passionate Full-Stack Software Engineer and Computer Science undergraduate based in Sri Lanka. I specialize in building robust backend architectures, clean mobile/web user interfaces, and integrating DevOps practices to deliver optimized, scalable software solutions.
+A passionate Full-Stack Software Engineer and Computer Science undergraduate at IIT Sri Lanka. I specialize in building robust backend architectures, clean mobile/web user interfaces, and integrating DevOps practices to deliver optimized, scalable software solutions.
 
 ---
 
@@ -36,5 +36,7 @@ A passionate Full-Stack Software Engineer and Computer Science undergraduate bas
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanuka-Pathiraja&show_icons=true&theme=vortex&hide_border=true" alt="Sanuka's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanuka-Pathiraja&show_icons=true&theme=transparent&hide_border=true" alt="Sanuka's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanuka-Pathiraja&layout=compact&theme=transparent&hide_border=true" alt="Sanuka's Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Sanuka-Pathiraja&theme=transparent&hide_border=true" alt="Sanuka's GitHub Streak" />
 </p>
