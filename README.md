@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Sanuka Pathiraja 👋
 
-<!--
-**Sanuka-Pathiraja/Sanuka-Pathiraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Full-Stack Software Engineer and Computer Science undergraduate based in Sri Lanka. I specialize in building robust backend architectures, clean mobile/web user interfaces, and integrating DevOps practices to deliver optimized, scalable software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+* **Building:** Scalable software products addressing real-world needs and optimizing workflows.
+* **Exploring:** Advanced DevOps pipelines, container orchestration, and cloud-native architectures.
+* **Refining:** Public speaking and leadership skills as an active member of Ja Ela Toastmasters.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="snake-animation.svg" alt="Tech Stack Snake Animation" width="100%">
+</p>
+
+---
+
+### 📈 Featured Projects
+
+* **OptiFlow** A buffet management and financial optimization system utilizing station-based data generation and machine learning models for predictive analysis.
+* **Tabby** A group expense management platform featuring secure, multi-layered JWT authentication and real-time ledger syncing powered by Supabase.
+* **uysafe.live** Contributed to personal safety tech by engineering safety-scoring algorithms and building the front-end architecture for the *SafePath Guardian* interface.
+
+---
+
+### 💬 Let's Connect
+
+* **📫 Contact:** [Your Email Address]
+* **💼 LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+* **🌐 Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanuka-Pathiraja&show_icons=true&theme=vortex&hide_border=true" alt="Sanuka's GitHub Stats" />
+</p>
